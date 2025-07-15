@@ -7,3 +7,4 @@ psutil
 python-crontab
 semantic_version
 GitPython==0.3.2.rc1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
